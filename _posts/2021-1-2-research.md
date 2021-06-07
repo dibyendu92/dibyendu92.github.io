@@ -2,7 +2,7 @@
 title: Research
 bg: color2
 color: white
-icon: img/services.png
+icon: img/research.png
 ---
 
 ### Research Interests
